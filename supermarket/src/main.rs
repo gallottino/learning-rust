@@ -13,6 +13,7 @@ fn print_action() {
 }
 
 // The program takes as input the filename
+// es: cargo run resources/catalog.json
 fn main() {
 
     let args: Vec<String> = env::args().collect();
@@ -25,7 +26,7 @@ fn main() {
     print_action();
 
     println!("{}", catalog);
-    loop{
+    loop {
 
     }
 }
