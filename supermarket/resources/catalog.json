@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "name" : "Apple",
+            "description": "A simmple red apple.",
+            "price" : 3,
+            "quantity": 35
+        }
+    ]
+}
