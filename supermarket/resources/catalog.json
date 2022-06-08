@@ -3,8 +3,20 @@
         {
             "name" : "Apple",
             "description": "A simmple red apple.",
-            "price" : 3,
+            "price" : 1.50,
             "quantity": 35
+        },
+        {
+            "name" : "Pumpkin",
+            "description": "I'm a orange big pumpkin.",
+            "price" : 3.75,
+            "quantity": 4
+        },
+        {
+            "name" : "Watermelon",
+            "description": "There is a lot of water inside me.",
+            "price" : 6.30,
+            "quantity": 2
         }
     ]
 }
